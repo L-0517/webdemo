@@ -1,7 +1,7 @@
 public class Hello {
     public static void main(String[] args) {
-        int age = 18;
-        String name = "小明";
+        int age = 28;
+        String name = "小李";
         double score = 95.5;
 
         System.out.println("姓名：" + name);
